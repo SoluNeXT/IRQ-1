@@ -1,6 +1,6 @@
 #importonce
 
-#import "../main.asm"
+
 #import "../macros/m_musics.asm"
 
 * = * "A_MUSICS"

@@ -1,6 +1,5 @@
 #importonce
 
-#import "../main.asm"
 #import "../assets/a_musics.asm"
 #import "../definitions/d_musics.asm"
 #import "../macros/m_musics.asm"

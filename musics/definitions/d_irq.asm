@@ -1,6 +1,6 @@
 #importonce
 
-* = * "L_IRQ"
+* = * "D_IRQ"
 .namespace IRQ{
 
 	// IRQ...
@@ -12,7 +12,7 @@
 	.label IRQ_CONTROL_STATUS_REGISTER_MASKABLE     = $dc0d
 
 
-	
+
 
 	.label IRQ_POINTER = $0314 // Permet de libérer le basic car ne nécessite pas de copier la ROM en RAM
 
